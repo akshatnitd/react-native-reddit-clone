@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/root/.android/build-cache/982bdf67a192efa3be305a738b60e75b777ea986/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/root/.android/build-cache/982bdf67a192efa3be305a738b60e75b777ea986/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/root/.android/build-cache/982bdf67a192efa3be305a738b60e75b777ea986/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/root/.android/build-cache/982bdf67a192efa3be305a738b60e75b777ea986/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/root/.android/build-cache/982bdf67a192efa3be305a738b60e75b777ea986/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/root/.android/build-cache/982bdf67a192efa3be305a738b60e75b777ea986/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/pop.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/lightbox_enter.xml"
+    }
+]

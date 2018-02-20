@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/menu/search_item.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/menu/stub.xml",
+        "source": "/home/akshat/Documents/hiring challenges/carousell/Carousell/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/stub.xml"
+    }
+]

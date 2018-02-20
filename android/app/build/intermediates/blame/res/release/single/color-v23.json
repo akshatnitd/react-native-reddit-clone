@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/af364347257c57227c610cda2fdd6464a91cec73/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/akshat/Documents/hiring challenges/carousell/Carousell/android/app/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/583d1c5f017b8b4a14cafbe932f5116002529094/output/res/color-v23/design_tint_password_toggle.xml"
+    }
+]
