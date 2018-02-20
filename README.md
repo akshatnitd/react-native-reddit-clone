@@ -1,7 +1,9 @@
 # Carousell 
 
 ### Screenshots
-![Create Topic](https://i.imgur.com/aozTA0s) ![Home Page](https://i.imgur.com/wLquQe7)
+![Create Topic](https://i.imgur.com/aozTA0s.png) ![Home Page](https://i.imgur.com/wLquQe7.png)
+
+
 
 ### How to Build (Android)
 You can skip to step 5 if you have setup the environment before.
