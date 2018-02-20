@@ -1,7 +1,9 @@
 # Carousell 
 
 ### Screenshots
-![Create Topic](https://i.imgur.com/aozTA0s.png) ![Home Page](https://i.imgur.com/wLquQe7.png)
+<img src="https://i.imgur.com/wLquQe7.png" width="200" />
+<img src="https://i.imgur.com/aozTA0s.png" width="200" />
+
 
 
 
