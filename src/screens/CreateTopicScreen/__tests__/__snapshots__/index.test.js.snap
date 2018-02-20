@@ -1,0 +1,283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    containerStyle={
+      Object {
+        "flex": 1,
+        "padding": 20,
+      }
+    }
+    style={
+      Array [
+        Object {
+          "backgroundColor": "#f2f2f2",
+          "elevation": 1,
+          "flex": 1,
+          "flexWrap": "nowrap",
+          "shadowColor": "#000",
+          "shadowOffset": Object {
+            "height": 2,
+            "width": 0,
+          },
+          "shadowOpacity": 0.1,
+          "shadowRadius": 1.5,
+        },
+        Object {
+          "flex": 1,
+          "padding": 20,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "paddingVertical": 5,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "color": "rgba(0,0,0,0.54)",
+              "fontFamily": "System",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "letterSpacing": 0,
+              "lineHeight": 16,
+            },
+            Object {
+              "paddingHorizontal": 4,
+            },
+            undefined,
+          ]
+        }
+      >
+        Username
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        labelText="Username"
+        onChangeText={[Function]}
+        placeholder="type your username"
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "color": "rgba(0,0,0,0.87)",
+              "fontFamily": "System",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "letterSpacing": -0.154,
+              "lineHeight": 20,
+            },
+            Object {
+              "justifyContent": "flex-start",
+              "padding": 4,
+              "textAlignVertical": "top",
+            },
+            null,
+            undefined,
+          ]
+        }
+        value=""
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "paddingVertical": 5,
+          },
+          undefined,
+        ]
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "color": "rgba(0,0,0,0.54)",
+              "fontFamily": "System",
+              "fontSize": 12,
+              "fontWeight": "400",
+              "letterSpacing": 0,
+              "lineHeight": 16,
+            },
+            Object {
+              "paddingHorizontal": 4,
+            },
+            undefined,
+          ]
+        }
+      >
+        Title
+      </Text>
+      <TextInput
+        allowFontScaling={true}
+        autoGrow={false}
+        labelText="Title"
+        maxHeight={115}
+        maxLength={255}
+        multiline={true}
+        numberOfLines={6}
+        onChangeText={[Function]}
+        placeholder="type what you want to say"
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+              "color": "rgba(0,0,0,0.87)",
+              "fontFamily": "System",
+              "fontSize": 14,
+              "fontWeight": "400",
+              "letterSpacing": -0.154,
+              "lineHeight": 20,
+            },
+            Object {
+              "justifyContent": "flex-start",
+              "padding": 4,
+              "textAlignVertical": "top",
+            },
+            Object {
+              "paddingBottom": 12,
+            },
+            undefined,
+          ]
+        }
+        value=""
+      />
+    </View>
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "borderRadius": 6,
+            "borderWidth": 0,
+            "flex": 1,
+            "justifyContent": "center",
+          },
+          Object {
+            "elevation": 1,
+            "flex": 0,
+            "height": 40,
+          },
+        ]
+      }
+    >
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hasTVPreferredFocus={undefined}
+        hitSlop={undefined}
+        isTVSelectable={true}
+        nativeID={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Array [
+            Object {
+              "backgroundColor": "transparent",
+            },
+            undefined,
+          ]
+        }
+        testID={undefined}
+        tvParallaxProperties={undefined}
+      >
+        <View
+          buttonStyle={
+            Object {
+              "backgroundColor": "#0099cc",
+            }
+          }
+          containerStyle={
+            Object {
+              "elevation": 1,
+              "flex": 0,
+              "height": 40,
+            }
+          }
+          onPress={[Function]}
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "alignSelf": "stretch",
+                "borderColor": "#bdbdbd",
+                "borderRadius": 6,
+                "flex": 1,
+                "justifyContent": "center",
+                "paddingHorizontal": 3,
+                "paddingVertical": 8,
+              },
+              Object {
+                "elevation": 1,
+                "flex": 0,
+                "height": 40,
+              },
+            ]
+          }
+          textStyle={
+            Object {
+              "color": "#f2f2f2",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Array [
+                Object {
+                  "backgroundColor": "transparent",
+                  "color": "rgba(0,0,0,0.87)",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "600",
+                  "letterSpacing": -0.154,
+                  "lineHeight": 20,
+                },
+                Object {
+                  "color": "#f2f2f2",
+                },
+              ]
+            }
+          >
+            SUBMIT TOPIC
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

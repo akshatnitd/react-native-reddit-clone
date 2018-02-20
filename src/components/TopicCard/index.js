@@ -91,20 +91,3 @@ TopicCard.propTypes = {
 }
 
 export default TopicCard
-
-
-// <Button
-//               rippleColor={colorStyle.primaryDark}
-//               onPress={this.handleUpvoteTopic.bind(this, data.id)}
-//               textStyle={{ color: colorStyle.primaryDark }}
-//             >
-//               UPVOTE
-//             </Button>
-
-// <Button
-//               rippleColor={colorStyle.danger}
-//               onPress={this.handleDownvoteTopic.bind(this, data.id)}
-//               textStyle={{ color: colorStyle.danger }}
-//             >
-//               DOWNVOTE
-//             </Button>
