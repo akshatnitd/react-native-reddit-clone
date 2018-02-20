@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders multiline correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "paddingVertical": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "color": "rgba(0,0,0,0.54)",
+          "fontFamily": "System",
+          "fontSize": 12,
+          "fontWeight": "400",
+          "letterSpacing": 0,
+          "lineHeight": 16,
+        },
+        Object {
+          "paddingHorizontal": 4,
+        },
+        undefined,
+      ]
+    }
+  >
+    label
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    labelText="label"
+    multiline={true}
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "color": "rgba(0,0,0,0.87)",
+          "fontFamily": "System",
+          "fontSize": 14,
+          "fontWeight": "400",
+          "letterSpacing": -0.154,
+          "lineHeight": 20,
+        },
+        Object {
+          "justifyContent": "flex-start",
+          "padding": 4,
+          "textAlignVertical": "top",
+        },
+        Object {
+          "paddingBottom": 12,
+        },
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
+
+exports[`renders singleline correctly 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "paddingVertical": 5,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    accessible={true}
+    allowFontScaling={true}
+    ellipsizeMode="tail"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "color": "rgba(0,0,0,0.54)",
+          "fontFamily": "System",
+          "fontSize": 12,
+          "fontWeight": "400",
+          "letterSpacing": 0,
+          "lineHeight": 16,
+        },
+        Object {
+          "paddingHorizontal": 4,
+        },
+        undefined,
+      ]
+    }
+  >
+    label
+  </Text>
+  <TextInput
+    allowFontScaling={true}
+    labelText="label"
+    style={
+      Array [
+        Object {
+          "backgroundColor": "transparent",
+          "color": "rgba(0,0,0,0.87)",
+          "fontFamily": "System",
+          "fontSize": 14,
+          "fontWeight": "400",
+          "letterSpacing": -0.154,
+          "lineHeight": 20,
+        },
+        Object {
+          "justifyContent": "flex-start",
+          "padding": 4,
+          "textAlignVertical": "top",
+        },
+        null,
+        undefined,
+      ]
+    }
+  />
+</View>
+`;
