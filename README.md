@@ -1,7 +1,7 @@
 # Carousell 
 
 ### Screenshots
-![Create Topic](https://imgur.com/aozTA0s) ![Home Page](https://imgur.com/wLquQe7) 
+![Create Topic](https://i.imgur.com/aozTA0s) ![Home Page](https://i.imgur.com/wLquQe7)
 
 ### How to Build (Android)
 You can skip to step 5 if you have setup the environment before.
@@ -24,7 +24,6 @@ You can skip to step 5 if you have setup the environment before.
 1. Run ```yarn android``` to install and run the app on Android.
 1. Alternatively, run ```react-native run-android --variant=release``` to install and run the signed APK on Android. Make sure you have uninstalled the previous same app before doing this.
 
-Note: If you have trouble running the packager, try running ```yarn inotify``` to configure watcher.
 
 ### How to Install (Android)
 Copy `build/app-release.apk` to your Android device and install it.
