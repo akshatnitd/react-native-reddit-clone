@@ -62,6 +62,25 @@ class TopicBackend {
   }
 
   /**
+   * Get topic by its object id
+   * @param  {string} username  username of the topic creator
+   * @param  {string} title  title or content of the created topic
+   */
+  createTopic = (username, title) => {
+    const newTopic = {
+      id: generateObjectId(),
+      username,
+      title,
+      vote: 0,
+      createdAt: new Date().toString(),
+      modifiedAt: new Date().toString(),
+    }
+    this.data = [...this.data, newTopic]
+
+    return newTopic
+  }
+
+  /**
    * Upvote topic by its object id
    * @param  {string} topicId  object id of the topic
    */
